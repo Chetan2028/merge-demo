@@ -1,1 +1,2 @@
 Adding file form GITHUB-UI
+Making changes from GITHUB REmote to resolve conflics and then merge
